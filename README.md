@@ -2,7 +2,7 @@
 A small program that automatically compounds based on your balance.
 
 # Why the compounder?
-I wrote this because I thought collecting manually was just too much of a pain. I wrote this so I could just have this running on a raspberry pi 4 in a background process.
+I wrote this because I thought collecting manually was just too much of a pain. Personally, I just have this running on a raspberry pi 4 in a background process, so i can just set it up once and forget it.  
 
 # Warning
 **this program requires you to input your secret 25 word mnemonic**.
