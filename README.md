@@ -18,3 +18,6 @@ make sure the enviroment-variable `ALGORAND_DATA` is properly set before running
 cargo run
 ```
 enter your 25 word mnemonic and enjoy.
+
+
+** EDIT: **  the formula im using is wrong. I gotta fix that at somepoint. 
